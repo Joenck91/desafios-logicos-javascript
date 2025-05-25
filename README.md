@@ -19,7 +19,7 @@ Você pode resolver os exercícios compilando o JavaScript com o Node de forma l
     Crie um array com 6 nomes de animais.
      Use o método splice 
 
-    Links to an external site. para remover 2 animais a partir da terceira posição e substituí-los por outros 2 animais diferentes.
+    Use o metodo splice para remover 2 animais a partir da terceira posição e substituí-los por outros 2 animais diferentes.
      Exiba o array resultante no console.
     Exemplo de entrada array = [leão, capivara, calopsita, onça, gavião, porco], saída esperada: leão, capivara, calopsita, tigre, cavalo, porco.
 
@@ -32,23 +32,14 @@ Você pode resolver os exercícios compilando o JavaScript com o Node de forma l
 
 4.   Somando Valores com um Loop for
 
-Links to an external site.
-
-Links to an external site.Crie um array com vários números inteiros.
-Use um loop for
-
-    Links to an external site. para somar todos os números do array.
+    Crie um array com vários números inteiros.
+    Use um loop for para somar todos os números do array.
     Exiba o resultado da soma no console.
     Exemplo de entrada array = [5, 5, 10], saída esperada: 20.
 
 5. Somando Valores com um Loop  while
-
-Links to an external site.
-
     Crie um array com vários números inteiros.
-    Use um loop while 
-
-    Links to an external site.para somar todos os números do array.
+    Use um loop while para somar todos os números do array.
     Exiba o resultado da soma no console.
     Exemplo de entrada array = [5, 5, 10], saída esperada: 20.
 
